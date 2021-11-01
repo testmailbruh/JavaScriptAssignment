@@ -1,1 +1,1 @@
-# JavaScriptAssignment
+# JSAssignment
